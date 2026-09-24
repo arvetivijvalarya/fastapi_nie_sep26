@@ -1,13 +1,13 @@
-let numbers = [10, 20, 30, 40, 50];
+let numbers = [10, 20, 30, 40, 50]
  
 let quotientsOf5 = numbers.map((arrayElement) => {
     return arrayElement / 5;
 })
 console.log(quotientsOf5)
 
-let lessThan30 = numbers.filter((e) => 
+let lessThan30 = numbers.filter((element) => 
     {
-        return e < 30;
+        return element < 30;
     }
 )
 console.log(lessThan30)
