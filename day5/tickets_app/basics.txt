@@ -1,0 +1,8 @@
+In c or d or any drive create below folder 
+
+E:/nie_fa_apps/app_tickets/client 
+    create vite project using client_code.txt instructions
+    and open the project and create required files 
+    and copy the code to components and service files 
+E:/nie_fa_apps/app_tickets/server
+    create main.py, copy code from server code 
